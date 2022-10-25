@@ -1,0 +1,16 @@
+/* CSS Document */
+.baner{
+	background: url("../img/joe-eitzen-ByDY5eqhP-g-unsplash.jpg");
+	padding: 200px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.card{
+	cursor: pointer;
+}
+.hover-shadow{
+	transition: all 0.2s
+}
+.hover-shadow:hover{
+	transform: translateY(-5px)
+}
